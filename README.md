@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RuckerTierra
-- 👀 I’m interested in ... Frontend Web Development
-- 🌱 I’m currently learning ... Fullstack (JavaScript) Web development
-- 💞️ I’m looking to collaborate on ... JavaScript projects
-- 📫 How to reach me ... via email (on my portfolio)
+- 👋 Hi, I’m @RuckerTierra.
+- 👀 I’m interested in ... Frontend Web Development.
+- 🌱 I’m currently learning ... Full (MERN) stack Web Development.
+- 💞️ I’m looking to collaborate on ... JavaScript projects!
+- 📫 How to reach me ... via email (on my portfolio or twitter DM, but I only go on Twitter a few times a month).
 
 <!---
 RuckerTierra/RuckerTierra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
